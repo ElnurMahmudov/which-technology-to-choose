@@ -27,9 +27,9 @@ PHP is primarily known as a server-side programming language widely used in web 
 - **Symfony** – A robust framework designed for enterprise-level applications.
 
 📌 **Where to Learn?**
-- [Official PHP Documentation](https://www.php.net/manual/en/){:target="_blank"}
-- [Laravel Documentation](https://laravel.com/docs){:target="_blank"}
-- [W3Schools PHP Tutorials](https://www.w3schools.com/php/){:target="_blank"}
+- [Official PHP Documentation](https://www.php.net/manual/en/)
+- [Laravel Documentation](https://laravel.com/docs)
+- [W3Schools PHP Tutorials](https://www.w3schools.com/php/)
 
 ---
 
@@ -46,15 +46,15 @@ Java has been the primary programming language for Android development for many 
 - **Kotlin** – A modern language that enables writing cleaner and more readable code while maintaining full interoperability with Java.
 
 📌 **Where to Learn?**
-- [Kotlin Official Documentation](https://kotlinlang.org/docs/home.html){:target="_blank"}
-- [Android Developer Official Tutorials](https://developer.android.com/){:target="_blank"}
+- [Kotlin Official Documentation](https://kotlinlang.org/docs/home.html)
+- [Android Developer Official Tutorials](https://developer.android.com/)
 
 ### **iOS Development: Swift**
 
 To develop applications for Apple's ecosystem, **Swift** is the primary language. It is known for its high performance, security, and modern features.
 
 📌 **Where to Learn?**
-- [Swift Official Documentation](https://developer.apple.com/swift/resources/){:target="_blank"}
+- [Swift Official Documentation](https://developer.apple.com/swift/resources/)
 
 ---
 
@@ -68,9 +68,9 @@ If you are interested in artificial intelligence and machine learning, **Python*
 - Libraries such as TensorFlow and PyTorch for deep learning.
 
 📌 **Where to Learn?**
-- [Python Official Documentation](https://docs.python.org/3/){:target="_blank"}
-- [TensorFlow Official Website](https://www.tensorflow.org/){:target="_blank"}
-- [PyTorch Official Website](https://pytorch.org/){:target="_blank"}
+- [Python Official Documentation](https://docs.python.org/3/)
+- [TensorFlow Official Website](https://www.tensorflow.org/)
+- [PyTorch Official Website](https://pytorch.org/)
 
 ---
 
@@ -84,8 +84,8 @@ If you aim to work in the banking and financial sector, **Java** is the most pop
 - Extensive infrastructure with powerful frameworks (Spring, Hibernate, Jakarta EE).
 
 📌 **Where to Learn?**
-- [Java Official Documentation](https://docs.oracle.com/en/java/){:target="_blank"}
-- [Spring Framework](https://spring.io/){:target="_blank"}
+- [Java Official Documentation](https://docs.oracle.com/en/java/)
+- [Spring Framework](https://spring.io/)
 
 ---
 
@@ -98,9 +98,9 @@ If you want to get into game development, the following technologies may be suit
 - **Godot (GDScript, C#)** – Open-source and suitable for both 2D and 3D games.
 
 📌 **Where to Learn?**
-- [Unity Official Documentation](https://learn.unity.com/){:target="_blank"}
-- [Unreal Engine Official Website](https://www.unrealengine.com/en-US/){:target="_blank"}
-- [Godot Official Documentation](https://docs.godotengine.org/en/stable/){:target="_blank"}
+- [Unity Official Documentation](https://learn.unity.com/)
+- [Unreal Engine Official Website](https://www.unrealengine.com/en-US/)
+- [Godot Official Documentation](https://docs.godotengine.org/en/stable/)
 
 ---
 
