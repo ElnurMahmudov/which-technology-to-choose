@@ -1,4 +1,4 @@
-# Which Technology Should You Choose? A Guide for Beginners
+# Backend Development for Beginners: Which Technology is Right for You?
 
 The world of technology is vast and complex. As a beginner in programming, deciding which programming language and technology to learn can be challenging. Each technology serves different purposes and has unique advantages.
 
