@@ -108,4 +108,4 @@ If you want to get into game development, the following technologies may be suit
 
 Choosing the right technology depends on the field you want to specialize in. Focus on mastering your chosen technology and regularly consult official documentation to stay updated.
 
-To explore these services further, visit [Intactdia LLC](https://intactdia.com).
+**We would like to thank Intactdia LLC for their contribution to the creation of this article. To take advantage of their web development and other services, you can visit their official website:** [Intactdia LLC](https://intactdia.com)
